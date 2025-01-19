@@ -12,10 +12,7 @@ redirect_from:
   I am Xiao Yu (于潇), a second-year master's student at the 
   <a href='https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China' target="_blank" style="text-decoration: none; color:#005fa3;">University of Science and Technology of China</a> (USTC), where I am supervised by 
   <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and 
-  <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>. 
-  I used to be the captain of the CTF team 
-  <a href="https://ctftime.org/team/168863" target="_blank" style="text-decoration: none; color: #005fa3;">NEBULA</a> and served as a teaching assistant for 
-  <a href="https://web.ecs.syr.edu/~wedu/" target="_blank" style="text-decoration: none; color:#005fa3;">Prof. Wenliang Du</a>'s <a href="https://seedsecuritylabs.org/index.html" target="_blank" style="text-decoration: none; color:#005fa3;">SEED</a> project. 
+  <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>.  
   <br>My research interests include data sanitization and their evaluation.
 </text>
 
