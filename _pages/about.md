@@ -122,13 +122,24 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-      InferDPT: Privacy-Preserving Inference for Black-box Large Language Model&nbsp;&nbsp;[<a href="./InferDPT_tdsc_2025.pdf" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/InferDPT" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
+      Text Fluoroscopy: Detecting LLM-Generated Text through Intrinsic Features&nbsp;&nbsp;[<a href="https://aclanthology.org/2024.emnlp-main.885.pdf" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
 
-      <div><b>Xiao Yu</b>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a>, <a href="https://scholar.google.com/citations?user=5DPb-wcAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;color: black;">Yuang Qi</a>, <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://personal.ntu.edu.sg/tianwei.zhang/" style="text-decoration: none;color: black;">Tianwei Zhang</a>, <a href="http://zhangzhk.com/" style="text-decoration: none;color: black;">Zhikun Zhang</a></div>
-      <div class="publication-year">Submitted to TDSC 2025 (minor revision)</div>
+      <div><b>Xiao Yu</b>, Xiao Yu, Kejiang Chen, Qi Yang, Weiming Zhang, Nenghai Yu</div>
+      <div class="publication-year">Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (Main Paper, EMNLP 2024)</div>
     </li>
   </ul>
 </div>
+<div class="publication-entry">
+  <ul>
+    <li>
+      SemGIR: Semantic-Guided Image Regeneration Based Method for AI-generated Image Detection and Attribution&nbsp;&nbsp;[<a href="https://openreview.net/pdf?id=D969j33VyX" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
+
+      <div><b>Xiao Yu</b>, Xiao Yu, Kejiang Chen, Kai Zeng, Han Fang, Zijin Yang, Xiuwei Shang, Yuang Qi, Weiming Zhang, Nenghai Yu</div>
+      <div class="publication-year">Proceedings of the 32nd ACM International Conference on Multimedia (MM 2024)</div>
+    </li>
+  </ul>
+</div>
+
 
 <h3 style="font-size: 23px;"> Professional Experiences</h3><a name="Professional Experiences"></a>
 <div class="publication-entry">
