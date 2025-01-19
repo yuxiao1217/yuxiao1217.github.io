@@ -151,97 +151,69 @@ ul {
 </div>
 
 
-<h3 style="font-size: 23px;"> Professional Experiences</h3><a name="Professional Experiences"></a>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Invited to review for <text style="font-style: italic;">IEEE TIFS</text> by <a href="https://chiamuyu.weebly.com/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Chia-Mu Yu</a>, <em>2024</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Invited to give a talk about data sanitization by <a href="https://www.webank.com/en/" style="text-decoration: none;color: black;">Webank</a>, <em>2024</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Teaching assistant for <a href="https://web.ecs.syr.edu/~wedu/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Wenliang Du</a>'s SEED project, <em>2022&nbsp;-&nbsp;2023</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Captain of the CTF team <a href="https://ctftime.org/team/168863" style="text-decoration: none; color: #005fa3;">NEBULA</a>, ranked 137th / top 0.33% globally on CTFtime, <em>2022&nbsp;-&nbsp;2023</em>.
-    </li>
-  </ul>
-</div>
-<div class="publication-entry">
-  <ul>
-    <li>
-    Mentor of the CTF team <a href="https://ctftime.org/team/168863" style="text-decoration: none; color: #005fa3;">NEBULA</a>, ranked 1769th / top 4.32% globally on CTFtime, <em>2021&nbsp;-&nbsp;2022</em>.
-    </li>
-  </ul>
-</div>
-
 <h3 style="font-size: 23px;"> Honors and Awards</h3><a name="Honors and Awards"></a>
 <div class="publication-entry">
   <ul>
     <li>
-    Distinguished graduates of USTC, <em>2024</em>. 
+    Graduate National Scholarship, <em>2024</em>. 
     </li>
   </ul>
 </div>
+
 <div class="publication-entry">
   <ul>
     <li>
-    Honors bachelor from the gifted student program at USTC, <em>2024</em>.
+    3rd Place in ATEC AI-generated News Detection Track, <em>2024</em>.
     </li>
   </ul>
 </div>
+
 <div class="publication-entry">
   <ul>
     <li>
-    5th place in the international CTF competition SCTF, <em>2023</em>.
+    1st Prize (Mentoring Undergraduate Students) in the National Cybersecurity Competition, <em>2024</em>.
     </li>
   </ul>
 </div>
+
 <div class="publication-entry">
   <ul>
     <li>
-    Silver award in the IGEM competition, <em>2022</em> and <em>2023</em>.
+    Investment-Worthy Award (Mentoring Undergraduate Students) in the Cybersecurity Competition, <em>2024</em>.
     </li>
   </ul>
 </div>
+
 <div class="publication-entry">
   <ul>
     <li>
-    5th place in Tencent’s international CTF competition TCTF/0CTF, <em>2022</em>.
+    Distinguished graduates of Shanghai, <em>2023</em>. 
     </li>
   </ul>
 </div>
+
+
+
 <div class="publication-entry">
   <ul>
     <li>
-    2nd prize in the Chinese college student CTF competition, <em>2023</em>.
+    2nd Prize in the National College Student Computer Application Skills Competition, <em>2022</em>.
     </li>
   </ul>
 </div>
+
+
+<h3 style="font-size: 23px;"> Professional Experiences</h3><a name="Professional Experiences"></a>
 <div class="publication-entry">
   <ul>
     <li>
-    2nd prize in the Chinese "strong net" CTF competition, <em>2022</em>.
+    Teaching assistant for the class of pattern recognition at Shanghai University, <em>2023</em>.
     </li>
   </ul>
-</div>
-<div class="publication-entry">
+</div><div class="publication-entry">
   <ul>
     <li>
-    2nd prize in the Chinese college student CTF competition, <em>2022</em>.
+    Teaching assistant for the class of advanced mathematics at Shanghai University, <em>2023</em>.
     </li>
   </ul>
 </div>
