@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meng Tong"
+title                    : "Xiao Yu"
 title_separator          : "-"
-name                     : &name "Meng Tong"
+name                     : &name "Xiao Yu"
 description              : &description "personal description"
-url                      : https://mengtong0110.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuxiao1217.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meng Tong"
-  avatar           : "profile_tm.jpg"
+  name             : "Xiao Yu"
+  avatar           : "profile.jpg"
   bio              : "Master's student at University of Science and Technology of China. <br><br><b>Last updated:</b>&nbsp; <span id='currentDate'><script>document.write(new Date().getFullYear()+'/'+(new Date().getMonth()+1)+'/'+new Date().getDate());</script></span>"
   #location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en-US&user=55CMF4sAAAAJ"
-  email            : "mtong@mail.ustc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=7yFTGKIAAAAJ"
+  email            : "yuxiao1217@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,9 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mengtong0110"
+  twitter          : "XiaoYu_USTC
+"
   vine             :
-  weibo            : "mengtong0110"
+  weibo            : "XiaoYu_USTC
+"
   xing             :
   youtube          :
   wikipedia        :
