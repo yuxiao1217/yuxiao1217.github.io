@@ -12,8 +12,8 @@ redirect_from:
   I am Xiao Yu (于潇), a second-year master's student at the 
   <a href='https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China' target="_blank" style="text-decoration: none; color:#005fa3;">University of Science and Technology of China</a> (USTC), where I am supervised by 
   <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and 
-  <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>.  
-  <br>My research interests include data sanitization and their evaluation.
+  <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>. I also collaborate closely with the group led by <a href="https://amandajshao.github.io/" target="_blank" style="text-decoration: none; color: #005fa3;">Dr. Amanda Shao</a> at the <a href="https://www.shlab.org.cn/" target="_blank" style="text-decoration: none; color: #005fa3;">Shanghai AI Lab</a>. 
+  <br>My research interests include the detection of AI-generated content and trustworthy machine learning.
 </text>
 
 
