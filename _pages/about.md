@@ -103,7 +103,7 @@ ul {
 </div>
 
 <div class="cv-section">
-  <div class="cv-date"><em>2019.09&nbsp;-&nbsp;2023.06</em>, Bachelor of Computer Science at <a href="https://en.shu.edu.cn/" target="_blank" style="text-decoration: none; color: #005fa3;">SHU</a></div>
+  <div class="cv-date"><em>2019.09&nbsp;-&nbsp;2023.06</em>, Bachelor of Computer Science at <a href="https://en.shu.edu.cn/" target="_blank" style="text-decoration: none; color: #005fa3;">Shanghai University</a></div>
   <div class="cv-supervisor">Supervisor: <a href="https://scholar.google.com/citations?hl=zh-CN&user=JGm4z4YAAAAJ" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Xiaoqiang Li</a></div>
 </div>
 
