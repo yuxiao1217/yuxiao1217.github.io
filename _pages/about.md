@@ -112,10 +112,10 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-      On the Vulnerability of Text Sanitization&nbsp;&nbsp;[<a href="https://arxiv.org/pdf/2410.17052" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]&nbsp;&nbsp;[<a href="https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization" target="_blank" style="text-decoration: none; color: #005fa3;">code</a>]
+      DPIC: Decoupling Prompt and Intrinsic Characteristics for LLM Generated Text Detection&nbsp;&nbsp;[<a href="https://openreview.net/pdf?id=BZh05P2EoN" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
 
-      <div><b>Xiao Yu</b>, <a href="http://home.ustc.edu.cn/~chenkj" style="text-decoration: none;color: black;">Kejiang Chen</a>, <a href="http://home.ustc.edu.cn/~xjyuan/" style="text-decoration: none;color: black;">Xiaojian Yuan</a>, <a href="https://scholar.google.com/citations?user=4DTnkkkAAAAJ" style="text-decoration: none;color: black;">Jiayang Liu</a>,<a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ" style="text-decoration: none;color: black;">Weiming Zhang</a>, <a href="https://scholar.google.com/citations?user=7620QAMAAAAJ" style="text-decoration: none;color: black;">Nenghai Yu</a>, <a href="https://zjzac.github.io/" style="text-decoration: none;color: black;">Jie Zhang</a> </div>
-      <div class="publication-year">Submitted to NAACL 2025 with an ACL ARR score of 3.83/5, top 2% of submissions.</div>
+      <div><b>Xiao Yu</b>, Yuang Qi, Kejiang Chen, Guoqiang Chen, Xi Yang, Pengyuan Zhu, Xiuwei Shang, Weiming Zhang, Nenghai Yu </div>
+      <div class="publication-year">The Thirty-eighth Annual Conference on Neural Information Processing Systems (NIPS 2024).</div>
     </li>
   </ul>
   </div>
