@@ -115,7 +115,7 @@ ul {
       DPIC: Decoupling Prompt and Intrinsic Characteristics for LLM Generated Text Detection&nbsp;&nbsp;[<a href="https://openreview.net/pdf?id=BZh05P2EoN" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
 
       <div><b>Xiao Yu</b>, Yuang Qi, Kejiang Chen, Guoqiang Chen, Xi Yang, Pengyuan Zhu, Xiuwei Shang, Weiming Zhang, Nenghai Yu </div>
-      <div class="publication-year">The Thirty-eighth Annual Conference on Neural Information Processing Systems (NIPS 2024).</div>
+      <div class="publication-year">The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).</div>
     </li>
   </ul>
   </div>
@@ -135,7 +135,7 @@ ul {
       SemGIR: Semantic-Guided Image Regeneration Based Method for AI-generated Image Detection and Attribution&nbsp;&nbsp;[<a href="https://openreview.net/pdf?id=D969j33VyX" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
 
       <div><b>Xiao Yu</b>, Xiao Yu, Kejiang Chen, Kai Zeng, Han Fang, Zijin Yang, Xiuwei Shang, Yuang Qi, Weiming Zhang, Nenghai Yu</div>
-      <div class="publication-year">Proceedings of the 32nd ACM International Conference on Multimedia (MM 2024)</div>
+      <div class="publication-year">Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM 2024)</div>
     </li>
   </ul>
 </div>
