@@ -124,7 +124,7 @@ ul {
     <li>
       Text Fluoroscopy: Detecting LLM-Generated Text through Intrinsic Features&nbsp;&nbsp;[<a href="https://aclanthology.org/2024.emnlp-main.885.pdf" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
 
-      <div><b>Xiao Yu</b>, Xiao Yu, Kejiang Chen, Qi Yang, Weiming Zhang, Nenghai Yu</div>
+      <div><b>Xiao Yu</b>, Kejiang Chen, Qi Yang, Weiming Zhang, Nenghai Yu</div>
       <div class="publication-year">Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (Main Paper, EMNLP 2024)</div>
     </li>
   </ul>
@@ -134,7 +134,7 @@ ul {
     <li>
       SemGIR: Semantic-Guided Image Regeneration Based Method for AI-generated Image Detection and Attribution&nbsp;&nbsp;[<a href="https://openreview.net/pdf?id=D969j33VyX" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
 
-      <div><b>Xiao Yu</b>, Xiao Yu, Kejiang Chen, Kai Zeng, Han Fang, Zijin Yang, Xiuwei Shang, Yuang Qi, Weiming Zhang, Nenghai Yu</div>
+      <div><b>Xiao Yu</b>, Kejiang Chen, Kai Zeng, Han Fang, Zijin Yang, Xiuwei Shang, Yuang Qi, Weiming Zhang, Nenghai Yu</div>
       <div class="publication-year">Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM 2024)</div>
     </li>
   </ul>
