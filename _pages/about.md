@@ -93,7 +93,7 @@ ul {
 
 <div class="cv-section">
   <div class="cv-date"><em>2024.11&nbsp;-&nbsp;Now</em>, Research Intern at Shanghai AI Lab</div>
-  <div class="cv-supervisor">Supervisors: <a href="https://amandajshao.github.io/" target="_blank" style="text-decoration: none; color: #005fa3;">Dr. Amanda Shao</a></div>
+  <div class="cv-supervisor">Supervisor: <a href="https://amandajshao.github.io/" target="_blank" style="text-decoration: none; color: #005fa3;">Dr. Amanda Shao</a></div>
 </div>
 
 
