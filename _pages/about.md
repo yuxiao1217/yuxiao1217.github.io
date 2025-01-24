@@ -132,7 +132,7 @@ ul {
 <div class="publication-entry">
   <ul>
     <li>
-      SemGIR: Semantic-Guided Image Regeneration Based Method for AI-generated Image Detection and Attribution&nbsp;&nbsp;[<a href="https://openreview.net/pdf?id=D969j33VyX" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
+      SemGIR: Semantic-Guided Image Regeneration Based Method for AI-generated Image Detection and Attribution&nbsp;&nbsp;[<a href="https://yuxiao1217.github.io/3664647.pdf" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
 
       <div><b>Xiao Yu</b>, Kejiang Chen, Kai Zeng, Han Fang, Zijin Yang, Xiuwei Shang, Yuang Qi, Weiming Zhang, Nenghai Yu</div>
       <div class="publication-year">Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM 2024)</div>
