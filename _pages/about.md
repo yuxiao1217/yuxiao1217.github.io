@@ -95,7 +95,7 @@ ul {
 
 
 <div class="cv-section">
-  <div class="cv-date"><em>2023.09&nbsp;-&nbsp;Now</em>, Master of Cyberscience at USTC</div>
+  <div class="cv-date"><em>2023.09&nbsp;-&nbsp;Now</em>, Master of Cyberspace Security at USTC</div>
   <div class="cv-supervisor">Supervisors: <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a></div>
 </div>
 <div class="cv-section">
