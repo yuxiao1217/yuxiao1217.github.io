@@ -92,7 +92,7 @@ ul {
 </style>
 
 <div class="cv-section">
-  <div class="cv-date"><em>2024.11&nbsp;-&nbsp;Now</em>, Research Intern at Shanghai AI Lab</div>
+  <div class="cv-date"><em>2024.10&nbsp;-&nbsp;2025.01</em>, Research Intern at Shanghai AI Lab</div>
   <div class="cv-supervisor">Supervisor: <a href="https://amandajshao.github.io/" target="_blank" style="text-decoration: none; color: #005fa3;">Dr. Amanda Shao</a></div>
 </div>
 
@@ -139,16 +139,16 @@ ul {
     </li>
   </ul>
 </div>
-<div class="publication-entry">
-  <ul>
-    <li>
-      How Far Have We Gone in Binary Code Understanding Using Large Language Models&nbsp;&nbsp;[<a href="https://ieeexplore.ieee.org/abstract/document/10795058/" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>]
-
-      <div>Xiuwei Shang, Shaoyin Cheng, Guoqiang Chen, Yanming Zhang, Li Hu, <b>Xiao Yu</b>, Gangyang Li, Weiming Zhang, Nenghai Yu</div>
-      <div class="publication-year">2024 IEEE International Conference on Software Maintenance and Evolution (ICSME 2024)</div>
-    </li>
-  </ul>
-</div>
+<!-- <div class="publication-entry"> -->
+  <!-- <ul> -->
+    <!-- <li> -->
+      <!-- How Far Have We Gone in Binary Code Understanding Using Large Language Models&nbsp;&nbsp;[<a href="https://ieeexplore.ieee.org/abstract/document/10795058/" target="_blank" style="text-decoration: none; color: #005fa3;">pdf</a>] -->
+<!--  -->
+      <!-- <div>Xiuwei Shang, Shaoyin Cheng, Guoqiang Chen, Yanming Zhang, Li Hu, <b>Xiao Yu</b>, Gangyang Li, Weiming Zhang, Nenghai Yu</div> -->
+      <!-- <div class="publication-year">2024 IEEE International Conference on Software Maintenance and Evolution (ICSME 2024)</div> -->
+    <!-- </li> -->
+  <!-- </ul> -->
+<!-- </div> -->
 
 
 <h3 style="font-size: 23px;"> Honors and Awards</h3><a name="Honors and Awards"></a>
