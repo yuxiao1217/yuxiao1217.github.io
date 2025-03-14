@@ -12,7 +12,7 @@ redirect_from:
   I am Xiao Yu (于潇), a second-year master's student at the 
   <a href='https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China' target="_blank" style="text-decoration: none; color:#005fa3;">University of Science and Technology of China</a> (USTC), where I am supervised by 
   <a href="https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Weiming Zhang</a> and 
-  <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>. I also collaborate closely with the group led by <a href="https://amandajshao.github.io/" target="_blank" style="text-decoration: none; color: #005fa3;">Dr. Amanda Shao</a> at the <a href="https://www.shlab.org.cn/" target="_blank" style="text-decoration: none; color: #005fa3;">Shanghai AI Lab</a>. 
+  <a href="http://home.ustc.edu.cn/~chenkj/" target="_blank" style="text-decoration: none; color: #005fa3;">Prof. Kejiang Chen</a>. I also collaborate closely with the research group at the <a href="https://www.shlab.org.cn/" target="_blank" style="text-decoration: none; color: #005fa3;">Shanghai AI Lab</a>. 
   <br><b>My research interests include the detection of AIGC and trustworthy machine learning.</b>
 
 </text>
@@ -100,7 +100,6 @@ ul {
 </div>
 <div class="cv-section">
   <div class="cv-date"><em>2024.10&nbsp;-&nbsp;2025.01</em>, Research Intern at Shanghai AI Lab</div>
-  <div class="cv-supervisor">Supervisor: <a href="https://amandajshao.github.io/" target="_blank" style="text-decoration: none; color: #005fa3;">Dr. Amanda Shao</a></div>
 </div>
 <div class="cv-section">
   <div class="cv-date"><em>2019.09&nbsp;-&nbsp;2023.06</em>, Bachelor of Computer Science at <a href="https://en.shu.edu.cn/" target="_blank" style="text-decoration: none; color: #005fa3;">Shanghai University</a></div>
